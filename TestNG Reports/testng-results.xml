@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Main Tests" duration-ms="23557" started-at="2022-12-27T17:01:23 PST" finished-at="2022-12-27T17:01:46 PST">
+    <groups>
+    </groups>
+    <test name="/Users/ayc0921/Downloads/Capstone_Project_iTJ_AyleenCerda" duration-ms="23557" started-at="2022-12-27T17:01:23 PST" finished-at="2022-12-27T17:01:46 PST">
+      <class name="MainStoreTests">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:MainStoreTests@62f4ff3b]" name="beforeTest" is-config="true" duration-ms="12" started-at="2022-12-27T17:01:23 PST" finished-at="2022-12-27T17:01:23 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="TestCategoriesDisplayed()[pri:1, instance:MainStoreTests@62f4ff3b]" name="TestCategoriesDisplayed" duration-ms="122" started-at="2022-12-27T17:01:23 PST" description="Tests Categories elements are displayed" finished-at="2022-12-27T17:01:23 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCategoriesDisplayed -->
+        <test-method status="PASS" signature="TestProductDisplay()[pri:2, instance:MainStoreTests@62f4ff3b]" name="TestProductDisplay" duration-ms="5658" started-at="2022-12-27T17:01:23 PST" description="Tests Product information is displayed" finished-at="2022-12-27T17:01:28 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestProductDisplay -->
+        <test-method status="PASS" signature="TestShoppingBrowserAlert()[pri:3, instance:MainStoreTests@62f4ff3b]" name="TestShoppingBrowserAlert" duration-ms="7548" started-at="2022-12-27T17:01:28 PST" description="Test checks browser shopping cart alert" finished-at="2022-12-27T17:01:36 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestShoppingBrowserAlert -->
+        <test-method status="PASS" signature="TestShoppingCartContent()[pri:4, instance:MainStoreTests@62f4ff3b]" name="TestShoppingCartContent" duration-ms="10077" started-at="2022-12-27T17:01:36 PST" description="Test checks shopping cart content" finished-at="2022-12-27T17:01:46 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestShoppingCartContent -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:MainStoreTests@62f4ff3b]" name="afterTest" is-config="true" duration-ms="113" started-at="2022-12-27T17:01:46 PST" finished-at="2022-12-27T17:01:46 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- MainStoreTests -->
+    </test> <!-- /Users/ayc0921/Downloads/Capstone_Project_iTJ_AyleenCerda -->
+  </suite> <!-- Main Tests -->
+</testng-results>

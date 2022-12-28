@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Capstone_Proyect_iTJ_AyleenCerda" />
+        <module name="Challenge_AYC0921" />
+        <module name="Capstone_Project_iTj_AyleenCerda" />
+        <module name="Capstone_Project_iTJ_AyleenCerda" />
+        <module name="Test-Engineer-FTE-Home-Assignment-AYC0921-main" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
